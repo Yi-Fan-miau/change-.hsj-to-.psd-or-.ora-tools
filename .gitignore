@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.venv-build/
+*.egg-info/
+.pytest_cache/
+
+# Build output
+build/
+dist/
+dist-android/
+installer/output/
+*.spec.bak
+hsj_logcat*.txt
+*.log
+
+# Generated icons / installer art (recreate with tools/make_icons.py and tools/make_installer_art.py)
+assets/app_icon*.png
+assets/app_icon.ico
+assets/icons/
+assets/installer/
+installer/*.bmp
+android/app/src/main/res/mipmap-*/*.png
+android/app/src/main/res/drawable-nodpi/*.png
+
+# Android build / local state
+android/.gradle/
+android/.kotlin/
+android/build/
+android/app/build/
+android/core/build/
+android/local.properties
+android/.toolchain/
+android/gradle/wrapper/gradle-wrapper.jar
+android/gradlew
+android/gradlew.bat
+
+# Signing secrets
+android/keystore/*.jks
+android/keystore/keystore.properties
+
+# Samples / proprietary / large files
+samples/
+*.hsj
+画世界Pro.apk
+apk_unzip/
+docs/reverse/
+
+# IDE / OS
+.idea/
+.vscode/
+*.iml
+Thumbs.db
+.DS_Store
