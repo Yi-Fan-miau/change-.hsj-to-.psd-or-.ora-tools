@@ -1,0 +1,21 @@
+HSJ Converter
+Copyright 2026 Yi-Fan-miau
+
+This product includes software developed by third parties. The main
+third-party components and their licenses are:
+
+- NumPy (BSD-3-Clause)
+- Pillow (HPND)
+- lz4 (BSD-2-Clause)
+- zstandard (BSD-3-Clause)
+- PyInstaller (GPL-2.0-or-later with a special exception for bootloaders)
+- NSIS (zlib/libpng license)
+- zstd-jni (BSD-2-Clause)
+- lz4-java (Apache-2.0)
+- PNGJ (Apache-2.0)
+- AndroidX / Jetpack Compose / Kotlin (Apache-2.0)
+
+The project is an independent interoperability tool. It is not affiliated
+with, endorsed by, or sponsored by the developers of 画世界Pro / Huashijie.
+No proprietary application binaries, APK files, or user artwork are included
+in this repository.
