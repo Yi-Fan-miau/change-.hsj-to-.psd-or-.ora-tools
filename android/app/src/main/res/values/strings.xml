@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HSJ 转换器</string>
+    <string name="app_subtitle">画世界Pro 草稿 → PSD / ORA</string>
+    <string name="notification_channel_name">转换任务</string>
+    <string name="notification_channel_desc">草稿转换进度与结果</string>
+</resources>

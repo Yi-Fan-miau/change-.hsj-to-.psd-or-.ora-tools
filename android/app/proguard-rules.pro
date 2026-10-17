@@ -1,0 +1,8 @@
+-keep class com.github.luben.zstd.** { *; }
+-dontwarn com.github.luben.zstd.**
+-keep class net.jpountz.** { *; }
+-dontwarn net.jpountz.**
+-keep class ar.com.hjg.pngj.** { *; }
+-dontwarn java.awt.**
+-dontwarn javax.imageio.**
+-dontwarn sun.misc.**

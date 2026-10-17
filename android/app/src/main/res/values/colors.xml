@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="hsj_bg">#0D0F16</color>
+    <color name="hsj_surface">#151925</color>
+    <color name="hsj_primary">#6D4DFF</color>
+    <color name="hsj_accent">#2BD9F0</color>
+    <color name="hsj_text">#EDF1FA</color>
+</resources>
