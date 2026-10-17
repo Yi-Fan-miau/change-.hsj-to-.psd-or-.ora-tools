@@ -208,3 +208,5 @@ def composite(
 
         result[y0:y1] = np.clip(dst * 255.0 + 0.5, 0, 255).astype(np.uint8)
     return result
+
+
